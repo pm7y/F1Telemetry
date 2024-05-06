@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpRead", "UdpRead\UdpRead.csproj", "{73644A53-5CF9-45F4-BBCA-8C641984E6E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpTest", "UdpTest\UdpTest.csproj", "{7E7660F0-7D2B-4EAC-A1A6-C0DB200C15DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73644A53-5CF9-45F4-BBCA-8C641984E6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73644A53-5CF9-45F4-BBCA-8C641984E6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73644A53-5CF9-45F4-BBCA-8C641984E6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73644A53-5CF9-45F4-BBCA-8C641984E6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E7660F0-7D2B-4EAC-A1A6-C0DB200C15DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7660F0-7D2B-4EAC-A1A6-C0DB200C15DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7660F0-7D2B-4EAC-A1A6-C0DB200C15DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7660F0-7D2B-4EAC-A1A6-C0DB200C15DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
